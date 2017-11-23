@@ -1,6 +1,8 @@
 cat cat cat
-cat cat cat 
-dog[dog love cat]
+cat cat HEAD
+dog
+dog[dog make love with cat]
+fox
 dog
 change for fox 
 
